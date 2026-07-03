@@ -94,7 +94,7 @@ Receives emails, analyzes them with AI, generates replies, stores interactions i
 
 ## 📊 Google Sheets CRM
 
-<img src="screenshots/google-sheets-crm.png" width="100%">
+<img src="screenshots/googlesheet.png" width="100%">
 
 Central CRM where every processed email is stored with category, summary, language, confidence score and AI response status.
 
@@ -134,7 +134,7 @@ AI-Email-Classifier-CRM/
 │
 └── screenshots/
     ├── workflow.png
-    ├── google-sheets-crm.png
+    ├── googlesheet.png
     ├── dashboard.png
     ├── incoming-email.png
     └── ai-reply.png
