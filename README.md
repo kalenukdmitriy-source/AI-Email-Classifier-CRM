@@ -22,7 +22,7 @@
 
 **AI Email Classifier CRM** is a complete AI-powered email automation system built with **n8n**.
 
-The workflow automatically receives incoming emails from **Gmail**, analyzes them using **OpenAI**, classifies each message by category, detects the language, generates an AI summary and reply, stores every interaction inside **Google Sheets CRM**, and automatically applies the correct Gmail label.
+The workflow automatically receives incoming emails from **Gmail**, analyzes them using **OpenAI**, classifies each message by category, detects the language, generates an AI summary and reply, stores every interaction inside **Google Sheets CRM**, and automatically applies the appropriate Gmail label.
 
 This project demonstrates how AI can automate an entire email processing pipeline with almost zero manual work.
 
@@ -142,29 +142,23 @@ AI-Email-Classifier-CRM/
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Project Overview
 
-### 1. Clone the repository
+This repository showcases an AI-powered email automation workflow built with **n8n**, **OpenAI**, **Gmail**, and **Google Sheets**.
 
-```bash
-git clone https://github.com/kalenukdmitriy-source/AI-Email-Classifier-CRM.git
-```
+The project demonstrates:
 
-### 2. Import the workflow
+- 🤖 AI-powered email classification
+- 🌍 Automatic language detection
+- ✉️ AI-generated email replies
+- 🏷 Intelligent Gmail label automation
+- 📊 Google Sheets CRM integration
+- ⚡ End-to-end business process automation
 
-Open **n8n** and import or recreate the workflow in your workspace.
-
-### 3. Configure credentials
-
-Before running the automation configure:
-
-- OpenAI API
-- Gmail API
-- Google Sheets API
-
-### 4. Activate
-
-Enable the workflow and send a test email to your Gmail account.
+> **Note**
+>
+> The workflow file is **not included** in this repository.
+> This project is published as a portfolio showcase demonstrating workflow architecture, automation logic, and system design.
 
 ---
 
@@ -196,7 +190,9 @@ Enable the workflow and send a test email to your Gmail account.
 
 # 📄 License
 
-This project is published for educational and portfolio purposes.
+This repository is published for **portfolio** and **educational** purposes.
+
+The workflow implementation is showcased as a demonstration project and is **not intended for commercial redistribution**.
 
 ---
 
